@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "HUMBLE.",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2026-02-19T11:48:09.866359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Humble Quest",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/01_Humble_Quest_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Humble And Kind",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/02_Humble_And_Kind_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Humble And Kind",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/03_Humble_And_Kind_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Humble Mumble (feat. Erykah Badu)",
+      "artist": "OutKast feat. Erykah Badu",
+      "has_synced": true,
+      "path": "select/04_Humble_Mumble_(feat._Erykah_Badu)_OutKast_feat._Erykah_Badu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Humble Mumble (feat. Erykah Badu)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/05_Humble_Mumble_(feat._Erykah_Badu)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I go humble",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/06_I_go_humble_Björk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I go humble",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_I_go_humble_Björk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Go Humble",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/08_I_Go_Humble_Björk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Humble Daisy",
+      "artist": "Andy Partridge",
+      "has_synced": false,
+      "path": "select/09_Humble_Daisy_Andy_Partridge.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Humble Daisy",
+      "artist": "XTC",
+      "has_synced": true,
+      "path": "select/10_Humble_Daisy_XTC.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Humdrum and Humble",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/11_Humdrum_and_Humble_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1STP KLOSR\u0000\u0000The Humble Brothers feat. Jonathan Davis",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_1STP_KLOSR\u0000\u0000The_Humble_Brothers_feat._Jonathan_Davis_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Step Closer (Humble Brothers Remix) (LP Version)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/13_One_Step_Closer_(Humble_Brothers_Remix)_(LP_Version)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "HUMBLE.",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/14_HUMBLE._Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Song of the Humble Serf",
+      "artist": "Stephin Merritt",
+      "has_synced": false,
+      "path": "select/15_The_Song_of_the_Humble_Serf_Stephin_Merritt.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HUMBLE.",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_01_HUMBLE._Kendrick_Lamar.txt"
+    }
+  ]
+}
